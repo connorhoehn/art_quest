@@ -3,6 +3,10 @@
 ## Overview
 *Art Quest is a project that blends my passion for drawing and painting with immersive technology. It uses VR to transform classical art lessons into interactive challenges. Through spatial tasks, real-time feedback, and a system of rewards and progression, it gamifies the path to artistic mastery, making traditional techniques engaging, intuitive, and fun to learn.*
 
+[![Watch the video](https://img.youtube.com/vi/Q20hXwFagwo/0.jpg)](https://youtu.be/Q20hXwFagwo)
+
+**https://youtu.be/Q20hXwFagwo**
+
 ## Team Charter
 - Connor Hoehn (Sole Game Developer)
 
