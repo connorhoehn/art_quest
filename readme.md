@@ -1,4 +1,4 @@
-# Game Submission Readme
+# Art Quest Readme
 
 ## Overview
 *Art Quest is a project that blends my passion for drawing and painting with immersive technology. It uses VR to transform classical art lessons into interactive challenges. Through spatial tasks, real-time feedback, and a system of rewards and progression, it gamifies the path to artistic mastery, making traditional techniques engaging, intuitive, and fun to learn.*
